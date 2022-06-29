@@ -2,7 +2,7 @@
 
 <img src="./assents/timer.png" alt="print">
 
-Link do Projeto: <a href="https://splendid-fairy-401395.netlify.app/"></a>
+Link do Projeto: <a href="https://splendid-fairy-401395.netlify.app/">
 
 > Resultado do Projeto Timer.
 
